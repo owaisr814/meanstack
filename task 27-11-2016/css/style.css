@@ -31,13 +31,17 @@ padding-top:100px;
 align:center
 }
 .cover h1{
-	border-radius:45px;
+	border-radius:50px;
 	background-color:rgba(44,62,80,0.7);
- 	padding:10px 60px 10px 60px;
+ 	text-align:center;
 }
+
 .cover h3{
 	clear:both;
 	text-align:center;
+}
+.cover .heading{
+	padding-bottom:2px;
 }
 hr{
 	border-width:1px;
